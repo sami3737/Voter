@@ -31,4 +31,4 @@ Une fois le lien fait, les joueurs ont la possibilité de récupérer leurs réc
 
 ## Licence
 
-Ce projet est sous licence ``GNU GENERAL PUBLIC LICENSE`` - voir le fichier [LICENSE](LICENCE.md) pour plus d'informations
+Ce projet est sous licence ``GNU GENERAL PUBLIC LICENSE`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
