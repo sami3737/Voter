@@ -2,7 +2,7 @@
 
 ## À propos
 
-Social a été créé en 2017 et permet aux joueurs de voter pour des sites de ranking comme toprustservers.com ou encore rust-servers.net
+Social a été créé en 2017 en C# et permet aux joueurs de voter pour des sites de ranking comme toprustservers.com ou encore rust-servers.net
 
 Une fois le lien fait, les joueurs ont la possibilité de récupérer leurs récompenses dans le jeu.
 
